@@ -1,3 +1,0 @@
-#LDL
-
-LDL is often

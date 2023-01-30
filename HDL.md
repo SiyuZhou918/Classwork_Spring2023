@@ -1,3 +1,0 @@
-#HDL
-
-HDL is often

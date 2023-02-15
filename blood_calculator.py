@@ -79,5 +79,5 @@ def total_analysis(total_int):
 
     
     
-
-interface()
+if __name__ == "__main__":
+    interface()

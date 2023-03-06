@@ -2,4 +2,4 @@ jupyter
 pytest
 pytest-pycodestyle
 flask
-
+numpy

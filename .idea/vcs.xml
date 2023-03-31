@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/debug_class" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/mongo_db_jupyter_example" vcs="Git" />
+  </component>
+</project>

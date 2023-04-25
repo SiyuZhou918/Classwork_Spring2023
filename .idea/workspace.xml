@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="640286a6-267c-4843-9cff-48726238347d" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db_gui.py" beforeDir="false" afterPath="$PROJECT_DIR$/db_gui.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mongo_db_jupyter_example" beforeDir="false" afterPath="$PROJECT_DIR$/mongo_db_jupyter_example" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/mongo_db_jupyter_example/mongo_example.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/mongo_db_jupyter_example/mongo_example.ipynb" afterDir="false" />
     </list>
